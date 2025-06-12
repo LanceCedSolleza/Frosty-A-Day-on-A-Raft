@@ -1,6 +1,6 @@
-# Frosty: A Day on a Rafty
+# Frosty: A Day on a Raft
 
-**Frosty: A Day on a Rafty** is a fun, offline, single-player fishing arcade game where you play as **Frosty**, a brave little penguin drifting across the sea on a raft. Your mission is to catch as many fish as you can, avoid deadly dynamites, collect power-ups, and beat your high score!
+**Frosty: A Day on a Raft** is a fun, offline, single-player fishing arcade game where you play as **Frosty**, a brave little penguin drifting across the sea on a raft. Your mission is to catch as many fish as you can, avoid deadly dynamites, collect power-ups, and beat your high score!
 
 ![Title Screen](https://github.com/user-attachments/assets/8a5e6314-4fa9-429b-8182-f0af5e95af4c)
 
