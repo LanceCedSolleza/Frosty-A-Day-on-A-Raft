@@ -5,6 +5,10 @@
 ![Title Screen](https://github.com/user-attachments/assets/8a5e6314-4fa9-429b-8182-f0af5e95af4c)
 
 
+**Game Developed By: The Big Boss Studio**
+![The Big Boss Studio](https://github.com/user-attachments/assets/6dd4065b-dc05-4d31-96ae-1e5f4d25b7da)
+
+
 ---
 
 ## Gameplay Features
@@ -49,6 +53,7 @@ This game was created as a free, personal and academic project with no intent of
 Some assets (art and music) were sourced from open and free libraries across the internet.
 
 **Music and SFX obtained from:**
+
 -[Pixabay](https://pixabay.com/)
 -[FreesoundOrg](https://freesound.org/)
 
