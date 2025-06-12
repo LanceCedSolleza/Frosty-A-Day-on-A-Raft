@@ -15,13 +15,13 @@
 
 - **Simple Mechanics**: Hold the button to swing the harpoon, release to throw it!
 - **Endless Fishing**: Catch a variety of fish as they swim beneath you.
-- **Dodge Hazards**: Dynamites appear in the water — one hit costs a heart!
+- **Dodge Hazards**: Dynamites appear in the water; one hit costs a heart!
 - **Power-ups**:
   - Score Multipliers for big points
   - Hearts to restore lives
 - **High Score Challenge**: Set new records.
 - **Pixel Art Style**: Charming visuals with a cozy arcade vibe.
-- **Offline Play**: No internet required. Just start and play.
+- **Offline Play**: No internet required. Just download and play.
 
 ## Download & Play
 
@@ -55,6 +55,7 @@ Some assets (art and music) were sourced from open and free libraries across the
 **Music and SFX obtained from:**
 
 -[Pixabay](https://pixabay.com/)
+
 -[FreesoundOrg](https://freesound.org/)
 
 If you recognize your work and wish to be specifically credited or removed, please open a GitHub issue. This is a non-commercial fan-made project for learning and entertainment.
