@@ -35,7 +35,6 @@ Grab the latest version from the [Releases](https://github.com/LanceCedSolleza/F
 
 ---
 
-```markdown
 ![Gameplay](https://github.com/user-attachments/assets/e29a6e0c-58e5-4b0f-ad72-d765ad8f0fcb)
 
 ![Gameplay 2](https://github.com/user-attachments/assets/59d26a4f-11c0-45b8-816e-f59955ce75a7)
@@ -44,7 +43,6 @@ Grab the latest version from the [Releases](https://github.com/LanceCedSolleza/F
 
 ![Gameplay 4](https://github.com/user-attachments/assets/78c1fefc-0972-482d-8e45-dd6c691e98fb)
 
-```
 
 ## Credits
 This game was created as a free, personal and academic project with no intent of commercialization.
